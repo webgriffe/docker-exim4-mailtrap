@@ -1,6 +1,8 @@
 Exim4 Docker container with Mailtrap.io support 
 ===============================================
 
+[![](https://images.microbadger.com/badges/image/webgriffe/exim4-mailtrap.svg)](https://microbadger.com/images/webgriffe/exim4-mailtrap "Get your own image badge on microbadger.com")
+
 This Docker container is based on the [tianon/exim4](https://hub.docker.com/r/tianon/exim4/) container and only adds support for [Mailtrap.io](http://mailtrap.io) which is great for development purposes.
 
 Usage
